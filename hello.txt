@@ -1,2 +1,3 @@
 Learning Git is fun
 Oh, Wait! I actually prefer Python
+This is a fetch test
